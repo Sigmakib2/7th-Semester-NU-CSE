@@ -6,10 +6,10 @@ tags:
 ---
 ## Go explore:
 
-[[🤖 Artificial Intelligence -540201/01 INDEX 📓|🤖 Artificial Intelligence -540201/01 INDEX 📓]]
+[[01 🤖 Artificial Intelligence -540201 INDEX 📓]]
 
-[[👩‍💻 Compiler Design and Construction -540203/01 INDEX 📓|👩‍💻 Compiler Design and Construction -540203/01 INDEX 📓]]
+[[01 👩‍💻 Compiler Design and Construction -540203 INDEX 📓]]
 
-[[🖥 Computer Graphics -540205/01 INDEX 📓|🖥 Computer Graphics -540205/01 INDEX 📓]]
+[[01 🖥 Computer Graphics -540205 INDEX 📓]]
 
 [[💳 E-Commerce and Web Engineering -540207]]
